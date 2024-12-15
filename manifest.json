@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "web",
     "short_name": "web",
+=======
+    "name": "nicky",
+    "short_name": "nicky",
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

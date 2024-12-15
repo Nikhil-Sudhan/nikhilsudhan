@@ -1718,7 +1718,10 @@ POSSIBILITY OF SUCH DAMAGE.
 async
 collection
 stream_channel
+<<<<<<< HEAD
 typed_data
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 
 Copyright 2015, the Dart project authors. 
 
@@ -4348,7 +4351,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
 characters
+<<<<<<< HEAD
 ffi
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 
 Copyright 2019, the Dart project authors. 
 
@@ -4845,6 +4851,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
 OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 crypto
 vm_service
 
@@ -4877,6 +4884,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 cupertino_icons
 
 The MIT License (MIT)
@@ -7262,12 +7271,15 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+<<<<<<< HEAD
 path_provider
 path_provider_android
 path_provider_foundation
 path_provider_linux
 path_provider_platform_interface
 path_provider_windows
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 plugin_platform_interface
 url_launcher
 url_launcher_android
@@ -7276,7 +7288,10 @@ url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
+<<<<<<< HEAD
 xdg_directories
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
@@ -7330,6 +7345,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 flutter_svg
 
 Copyright (c) 2018 Dan Field
@@ -7352,6 +7368,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 freetype2
 
 Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
@@ -11573,6 +11591,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM,OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS
 IN THE MATERIALS.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 google_fonts
 
                                  Apache License
@@ -11778,6 +11797,8 @@ google_fonts
    limitations under the License.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 harfbuzz
 
 Copyright (C) 2011  Google, Inc.
@@ -14428,6 +14449,7 @@ shall not be used in advertising or otherwise to promote the sale,
 use or other dealings in these Data Files or Software without prior
 written authorization of the copyright holder.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 http
 http_parser
 matcher
@@ -14464,6 +14486,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 icu
 
 #      Copyright (c) 2006-2015 International Business Machines Corporation,
@@ -31071,6 +31095,43 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+matcher
+path
+source_span
+string_scanner
+
+Copyright 2014, the Dart project authors. 
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials provided
+      with the distribution.
+    * Neither the name of Google LLC nor the names of its
+      contributors may be used to endorse or promote products derived
+      from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 material_color_utilities
 
 
@@ -31277,6 +31338,7 @@ material_color_utilities
    limitations under the License.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 path_drawing
 path_parsing
 
@@ -31301,6 +31363,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 perfetto
 
 Apache License
@@ -31491,6 +31555,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 petitparser
 xml
 
@@ -31518,6 +31583,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 pkg
 
 Copyright (c) 2013, the Dart project authors.  Please see the AUTHORS file
@@ -31815,6 +31882,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 platform
 
 Copyright 2017, the Dart project authors. All rights reserved.
@@ -31845,6 +31913,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 platform_detect
 
                                  Apache License
@@ -34187,6 +34257,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 swipe_cards
 
 Copyright 2014 The Chromium Authors. All rights reserved.
@@ -34217,6 +34288,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 term_glyph
 
 Copyright 2017, the Dart project authors. 
@@ -34329,6 +34402,40 @@ freely, subject to the following restrictions:
 3. This notice may not be removed or altered from any source distribution.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+vm_service
+
+Copyright 2015, the Dart project authors.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials provided
+      with the distribution.
+    * Neither the name of Google LLC nor the names of its
+      contributors may be used to endorse or promote products derived
+      from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+>>>>>>> 8172f16b45508d3a2cde96a9409c351b964e0f57
 vulkan-validation-layers
 
 Apache License
