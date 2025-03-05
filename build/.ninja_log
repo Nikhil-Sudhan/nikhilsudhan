@@ -1,0 +1,9 @@
+# ninja log v5
+0	186	1741201454588353574	MapboxViewer_autogen/timestamp	21c2d89345216144
+0	186	1741201454588353574	MapboxViewer_autogen/mocs_compilation.cpp	21c2d89345216144
+0	186	1741201454588353574	/home/sudhan/test/test/build/MapboxViewer_autogen/timestamp	21c2d89345216144
+187	1701	1741201456110375442	CMakeFiles/MapboxViewer.dir/src/mapviewer.cpp.o	beec434175108e21
+0	186	1741201454588353574	/home/sudhan/test/test/build/MapboxViewer_autogen/mocs_compilation.cpp	21c2d89345216144
+187	1541	1741201455949373129	CMakeFiles/MapboxViewer.dir/src/main.cpp.o	99c714b6cb58393c
+186	1708	1741201456117375542	CMakeFiles/MapboxViewer.dir/MapboxViewer_autogen/mocs_compilation.cpp.o	c396e44892d58d94
+1708	2220	1741201456625382839	MapboxViewer	c1eea9e524f752e2
